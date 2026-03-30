@@ -1,4 +1,4 @@
-# Mini-Games-Collection-C_Language
+
 # 🎮 C Mini Games Collection
 
 A console-based mini games project written in C as part of my learning journey.
